@@ -1,0 +1,25 @@
+**Table 2: First stage, road density on the candidate instruments**
+
+|  | (1) Road density | (2) Road density |
+|---|---|---|
+| ln distance to Inca road | -0.0207*** |  |
+|  | (0.00386) |  |
+| ln distance to Kruskal network |  | -0.00283 |
+|  |  | (0.00390) |
+| Education 2007 (share) | -0.0172 | -0.0233 |
+|  | (0.0463) | (0.0463) |
+| Agriculture 2007 (share) | -0.0706*** | -0.0945*** |
+|  | (0.0220) | (0.0233) |
+| MYPEs 2007 | 0.000371 | 0.000445 |
+|  | (0.000407) | (0.000418) |
+| Mining 2007 (0/1) | -0.0349*** | -0.0445*** |
+|  | (0.0110) | (0.0112) |
+| ln urban population 2007 | 0.00075 | -0.000621 |
+|  | (0.00377) | (0.00388) |
+| Constant | 0.361*** | 0.185*** |
+|  | (0.0607) | (0.0496) |
+| Observations | 1,140 | 1,140 |
+| R² | 0.172 | 0.140 |
+| First-stage F | 28.80*** | 0.53 |
+
+Robust standard errors in parentheses (OLS: HC1; 2SLS: HC0). All regressions include department fixed effects. *** p<0.01, ** p<0.05, * p<0.1

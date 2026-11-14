@@ -1,0 +1,2 @@
+N,k,moran_I,moran_z,moran_p,lm_error,lm_error_p,rlm_error,rlm_error_p,lm_lag,lm_lag_p,rlm_lag,rlm_lag_p,kp_moran_chi2,kp_moran_p,check_spreg_moran_I,check_spreg_moran_z,check_spreg_lm_error,check_spreg_lm_lag,check_spreg_rlm_error,check_spreg_rlm_lag,check_esda_moran_I
+1191,30,0.363824,22.1256,1.79132e-108,417.092,1.04802e-92,292.915,1.1517e-65,124.189,7.6604e-29,0.0117793,0.913573,417.092,1.04802e-92,0.363824,22.1256,417.092,124.189,292.915,0.0117793,0.363824

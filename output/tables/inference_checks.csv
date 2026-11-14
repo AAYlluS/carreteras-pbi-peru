@@ -1,0 +1,26 @@
+statistic,value,note
+reduced_form_coef,0.0009272541968813625,"growth on ln distance to Inca road, HC1"
+reduced_form_se,0.005307002381126067,
+reduced_form_p,0.8612974691261641,
+iv_coef,-0.044804542836985206,Table 3 column 4
+iv_se,0.25411255642441133,
+iv_ci95_low,-0.5428651534288313,
+iv_ci95_high,0.453256067754861,
+ar_set95_low,-0.619,grid -3..3 step 0.001; contiguous=True
+ar_set95_high,0.467,
+ols_coef,0.11512813339489147,Table 3 column 2
+ols_ci95_low,0.033415301902889466,
+ols_ci95_high,0.19684096488689348,
+wu_hausman_F,0.4368993599821568,"F(1, 1109)"
+wu_hausman_p,0.508760096274395,
+wooldridge_chi2,0.4131345586535392,
+wooldridge_p,0.5203827996071289,
+sd_density,0.13108363751469004,"km per km2, estimation sample"
+sd_growth,0.36799482946347134,"log points, 2007-2018"
+effect_1sd__iv_ci95_low,-0.07116073899142153,log points of 2007-2018 growth per 1 s.d. of road density
+effect_1sd__iv_ci95_high,0.05941445408691199,log points of 2007-2018 growth per 1 s.d. of road density
+effect_1sd__ar_set95_low,-0.08114077162159314,log points of 2007-2018 growth per 1 s.d. of road density
+effect_1sd__ar_set95_high,0.061216058719360256,log points of 2007-2018 growth per 1 s.d. of road density
+effect_1sd__ols_coef,0.015091414505678835,log points of 2007-2018 growth per 1 s.d. of road density
+iv_coef_drop_alt,0.10430792799237931,"stricter exclusion flag, N=939"
+iv_se_drop_alt,0.21606895508320106,

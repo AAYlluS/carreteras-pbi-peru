@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Roads and Growth in Peru's Periphery: District-Level Evidence from Nighttime-Light GDP. Code and data"
+type: software
+authors:
+  - family-names: "Yllu Socualaya"
+    given-names: "Álvaro Alexander"
+date-released: 2026-11-14
+license: MIT
+keywords:
+  - infrastructure
+  - roads
+  - regional development
+  - nighttime lights
+  - spatial econometrics
+  - Peru
